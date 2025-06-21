@@ -1,7 +1,6 @@
 # ABGA - Asia Blockchain Gaming Alliance
 
-![ABGA Logo](https://www.abga.asia/static/media/logo-black.9be3c22e.png)  
-
+![ABGA Banner](./assets/banner.jpg)
 
 ---
 
