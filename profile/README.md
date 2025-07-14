@@ -1,27 +1,53 @@
-# ABGA - Asia Blockchain Gaming Alliance
+<p align="center">
+  <img src="../banner.jpg" alt="OmiSoft Banner" width="100%" />
+</p>
 
-![ABGA Banner](.././assets/banner.jpg)
+<h1 align="center">Welcome to OmiSoft 👋</h1>
 
----
-
-## About Us
-
-**ABGA (Asia Blockchain Gaming Alliance)** is a leading alliance that promotes the development and collaboration of blockchain gaming in Asia.  
-We bring together top game studios, investors, and industry partners to build a thriving ecosystem for Web3 gaming.
-
-Our mission is to support innovative projects, accelerate industry growth, and foster cross-border partnerships in the blockchain gaming space.
+<p align="center">
+   Empowering your ideas with cutting-edge software solutions.<br/>
+   Software Development | Web3 & Blockchain | Mobile & Web Apps | AI & ML
+</p>
 
 ---
 
-## What We Do
+## 🌐 About Us
 
-- 🧩 Incubate and support blockchain game projects  
-- 🌍 Host global summits, conferences, and pitch competitions  
-- 🤝 Build partnerships among developers, investors, and platforms  
-- 📢 Advocate Web3 gaming adoption across Asia  
+**[OmiSoft](https://omisoft.net)** is a leading software development company based in Ukraine. We specialize in building high-quality, scalable, and modern digital solutions for startups, SMEs, and enterprise-level clients worldwide.
+
+With deep expertise in **AI, Blockchain, Web3**, and full-stack development, we help clients turn bold ideas into powerful products.
 
 ---
 
-> 💡 ABGA is committed to building a sustainable and innovative future for the blockchain gaming industry.
+## 💼 Services We Offer
 
-🌐 [Website](https://www.abga.asia) | 📩 [Contact Us](mailto:info@abgaasia.org)
+- 🔧 **Custom Software Development**
+- 🧩 **Blockchain & Web3 Solutions**
+- 📱 **Mobile App Development (iOS & Android)**
+- 🌐 **Web App Development**
+- 🤖 **AI & Machine Learning Integration**
+- 🧪 **MVP & Prototype Building**
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Mobile | Blockchain | AI/ML | DevOps |
+|---------|---------|--------|------------|-------|--------|
+| React, Vue | Node.js, Python, Go | Flutter, React Native | Solidity, Rust, Web3.js | TensorFlow, OpenAI | Docker, AWS, CI/CD |
+
+---
+
+## 📈 Why Choose OmiSoft?
+
+✅ Experienced global team  
+✅ Agile & Lean development  
+✅ End-to-end product support  
+✅ Transparent communication  
+✅ Cost-effective solutions
+
+---
+
+<p align="center">
+  Made with ❤️ by OmiSoft Team
+</p>
